@@ -1,0 +1,11 @@
+{
+  "name": "Cross Country Speed Stars",
+  "short_name": "XC Speed Stars",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#05080f",
+  "theme_color": "#0e1b3d",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
